@@ -11,8 +11,8 @@ const Navbar = () => {
                 <Image
                     src="/logo.svg"
                     alt="Car Hub Trader"
-                    width={118}
-                    height={18}
+                    width={180}
+                    height={38}
                     className="object-contain"
                 />
             </Link>
